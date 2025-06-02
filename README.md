@@ -7,7 +7,7 @@ Installation
 
 2. Clone the project repository:
 ```bash
-git clone https://github.com/your-username/ollama-context-qa.git
+git clone https://github.com/rabieessayeh/ollama-context-qa.git
 cd ollama-context-qa
  ```
 
