@@ -1,0 +1,11 @@
+name: ollama
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      - sentence-transformers
+      - faiss-cpu # faiss-gpu
+      - requests
