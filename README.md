@@ -12,7 +12,6 @@ cd ollama-context-qa
  ```
 
 3. Create a new Anaconda environment named ollama:
-
 ```bash
 conda env create -f environment.yml
 conda activate ollama
